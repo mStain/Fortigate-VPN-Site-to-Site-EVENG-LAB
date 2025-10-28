@@ -18,6 +18,9 @@ Configure OSPF peering across the secure tunnel interface.
 
 Verify end-to-end connectivity, encryption, and routing table updates.
 
+🧪Lab Topology
+<img width="995" height="627" alt="image" src="https://github.com/user-attachments/assets/483fade0-6f44-44df-89f5-178a6411fbf3" />
+
 
 🛠️ Prerequisites (For Replicating the Lab)
 
@@ -66,5 +69,6 @@ ipsec_ospf_lab.unl: The complete EVE-NG topology file.
 README.md: This documentation.
 
 .gitignore: Standard git exclusion file.
+
 
 Author: [Your Name/GitHub Handle]
